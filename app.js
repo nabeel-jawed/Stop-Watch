@@ -17,7 +17,7 @@ function timer(){
     }
     else if(sec >= 60){
         min++;
-        minHeading.innerHTML = min;
+       minHeading.innerHTML = min;
         sec = 0;
     }
     }
