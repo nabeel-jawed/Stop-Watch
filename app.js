@@ -33,7 +33,7 @@ function timer(){
     function reset(){
         mil =0;
         sec = 0;
-        mil = 0;
+        min = 0;
         milHeading.innerHTML = mil;
         secHeading.innerHTML = sec;
         minHeading.innerHTML = min;
